@@ -1,0 +1,17 @@
+story = "once Upon a time"
+print(story.capitalize())
+print(story.upper())
+print(story.title())
+print(story.swapcase())
+print("HeLlO".swapcase())
+print("sayra bano".upper())
+story = story.swapcase()
+print(story)
+print("sayra".isupper())
+
+print("Sayra".lower())
+print("sayra".isalpha())
+print("sayra15".isalnum())
+print("sayra13".isalnum())
+print("123".isnumeric())
+print("sayra".istitle())
